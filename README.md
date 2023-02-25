@@ -1,4 +1,4 @@
-# Code Refactor Starter Code
+# Joseph Rodante: Module 1 Challenge
 
 This README is for the Module 1 Challenge of Joseph Rodante in the Rutgers Coding Bootamp. 
 
